@@ -2,4 +2,8 @@
 crate a new branchfff
 master
 dev
+<<<<<<< HEAD
 on dev branch
+=======
+he
+>>>>>>> he
